@@ -1,0 +1,12 @@
+# Shadow
+shadow = true;
+no-dock-shadow = true;
+no-dnd-shadow = true;
+clear-shadow = true;
+
+# Opacity
+opacity-rule = [
+	"90:class_g='X-terminal-emulator'"
+];
+inactive-opacity = 0.9;
+active-opacity = 1.0;
